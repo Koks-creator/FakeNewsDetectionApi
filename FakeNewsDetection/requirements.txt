@@ -1,0 +1,9 @@
+fastapi==0.108.0
+keras==2.14.0
+newspaper3k==0.2.8
+nltk==3.8.1
+numpy==1.26.0
+pydantic==2.5.3
+tensorflow==2.13.0
+tensorflow_intel==2.14.0
+uvicorn==0.25.0

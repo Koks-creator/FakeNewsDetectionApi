@@ -1,0 +1,325 @@
+2024-01-20 13:16:46,951 - Model - INFO - Line: 57 - Loading tokenizer from: model/tokenizer.pkl...
+2024-01-20 13:16:47,013 - Model - INFO - Line: 60 - Tokenizer loaded
+2024-01-20 13:16:47,013 - Model - INFO - Line: 62 - Loading model from: model/FakeNewsModel.h5...
+2024-01-20 13:16:47,648 - Model - INFO - Line: 64 - Model loaded
+2024-01-20 13:16:48 - App - INFO - Started server process [18756]
+2024-01-20 13:16:48 - App - INFO - Waiting for application startup.
+2024-01-20 13:16:48 - App - INFO - Application startup complete.
+2024-01-20 13:16:48 - App - INFO - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2024-01-20 13:20:40,538 - Model - INFO - Line: 60 - Loading tokenizer from: model/tokenizer.pkl...
+2024-01-20 13:20:40,617 - Model - INFO - Line: 63 - Tokenizer loaded
+2024-01-20 13:20:40,617 - Model - INFO - Line: 65 - Loading model from: model/FakeNewsModel.h5...
+2024-01-20 13:20:41,291 - Model - INFO - Line: 67 - Model loaded
+2024-01-20 13:20:41,301 - Model - INFO - Line: 60 - Loading tokenizer from: model/tokenizer.pkl...
+2024-01-20 13:20:41,301 - Model - INFO - Line: 60 - Loading tokenizer from: model/tokenizer.pkl...
+2024-01-20 13:20:41,365 - Model - INFO - Line: 63 - Tokenizer loaded
+2024-01-20 13:20:41,365 - Model - INFO - Line: 63 - Tokenizer loaded
+2024-01-20 13:20:41,366 - Model - INFO - Line: 65 - Loading model from: model/FakeNewsModel.h5...
+2024-01-20 13:20:41,366 - Model - INFO - Line: 65 - Loading model from: model/FakeNewsModel.h5...
+2024-01-20 13:20:41,945 - Model - INFO - Line: 67 - Model loaded
+2024-01-20 13:20:41,945 - Model - INFO - Line: 67 - Model loaded
+2024-01-20 13:20:54,816 - Model - INFO - Line: 60 - Loading tokenizer from: model/tokenizer.pkl...
+2024-01-20 13:20:54,881 - Model - INFO - Line: 63 - Tokenizer loaded
+2024-01-20 13:20:54,881 - Model - INFO - Line: 65 - Loading model from: model/FakeNewsModel.h5...
+2024-01-20 13:20:55,450 - Model - INFO - Line: 67 - Model loaded
+2024-01-20 13:20:55,450 - Model - INFO - Line: 60 - Loading tokenizer from: model/tokenizer.pkl...
+2024-01-20 13:20:55,450 - Model - INFO - Line: 60 - Loading tokenizer from: model/tokenizer.pkl...
+2024-01-20 13:20:55,516 - Model - INFO - Line: 63 - Tokenizer loaded
+2024-01-20 13:20:55,516 - Model - INFO - Line: 63 - Tokenizer loaded
+2024-01-20 13:20:55,516 - Model - INFO - Line: 65 - Loading model from: model/FakeNewsModel.h5...
+2024-01-20 13:20:55,516 - Model - INFO - Line: 65 - Loading model from: model/FakeNewsModel.h5...
+2024-01-20 13:20:56,016 - Model - INFO - Line: 67 - Model loaded
+2024-01-20 13:20:56,016 - Model - INFO - Line: 67 - Model loaded
+2024-01-20 13:25:59,994 - Model - INFO - Line: 55 - Preparing NLTK punkt model
+2024-01-20 13:26:00,166 - Model - INFO - Line: 63 - Loading tokenizer from: model/tokenizer.pkl...
+2024-01-20 13:26:00,227 - Model - INFO - Line: 66 - Tokenizer loaded
+2024-01-20 13:26:00,227 - Model - INFO - Line: 68 - Loading model from: model/FakeNewsModel.h5...
+2024-01-20 13:26:00,798 - Model - INFO - Line: 70 - Model loaded
+2024-01-20 13:26:00,801 - Model - INFO - Line: 55 - Preparing NLTK punkt model
+2024-01-20 13:26:00,801 - Model - INFO - Line: 55 - Preparing NLTK punkt model
+2024-01-20 13:26:00,801 - Model - INFO - Line: 63 - Loading tokenizer from: model/tokenizer.pkl...
+2024-01-20 13:26:00,801 - Model - INFO - Line: 63 - Loading tokenizer from: model/tokenizer.pkl...
+2024-01-20 13:26:00,862 - Model - INFO - Line: 66 - Tokenizer loaded
+2024-01-20 13:26:00,862 - Model - INFO - Line: 66 - Tokenizer loaded
+2024-01-20 13:26:00,862 - Model - INFO - Line: 68 - Loading model from: model/FakeNewsModel.h5...
+2024-01-20 13:26:00,862 - Model - INFO - Line: 68 - Loading model from: model/FakeNewsModel.h5...
+2024-01-20 13:26:01,376 - Model - INFO - Line: 70 - Model loaded
+2024-01-20 13:26:01,376 - Model - INFO - Line: 70 - Model loaded
+2024-01-20 13:27:02,186 - Model - INFO - Line: 55 - Preparing NLTK punkt model
+2024-01-20 13:27:02,351 - Model - INFO - Line: 63 - Loading tokenizer from: model/tokenizer.pkl...
+2024-01-20 13:27:02,416 - Model - INFO - Line: 66 - Tokenizer loaded
+2024-01-20 13:27:02,416 - Model - INFO - Line: 68 - Loading model from: model/FakeNewsModel.h5...
+2024-01-20 13:27:02,976 - Model - INFO - Line: 70 - Model loaded
+2024-01-20 13:27:03 - App - INFO - Started server process [3928]
+2024-01-20 13:27:03 - App - INFO - Waiting for application startup.
+2024-01-20 13:27:03 - App - INFO - Application startup complete.
+2024-01-20 13:27:03 - App - INFO - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2024-01-20 13:27:10 - App - INFO - 127.0.0.1:60044 - "GET / HTTP/1.1" 200
+2024-01-20 13:27:14 - App - INFO - 127.0.0.1:60044 - "GET /docs HTTP/1.1" 200
+2024-01-20 13:27:14 - App - INFO - 127.0.0.1:60044 - "GET /openapi.json HTTP/1.1" 200
+2024-01-20 13:27:21 - App - INFO - 127.0.0.1:60045 - "GET /get_model_summary HTTP/1.1" 404
+2024-01-20 13:27:30 - App - INFO - 127.0.0.1:60046 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 13:29:39 - App - INFO - 127.0.0.1:60056 - "GET / HTTP/1.1" 200
+2024-01-20 13:29:55 - App - INFO - 127.0.0.1:60058 - "GET / HTTP/1.1" 200
+2024-01-20 13:29:55 - App - INFO - 127.0.0.1:60059 - "GET //model_summary HTTP/1.1" 404
+2024-01-20 13:30:01 - App - INFO - 127.0.0.1:60061 - "GET / HTTP/1.1" 200
+2024-01-20 13:30:01 - App - INFO - 127.0.0.1:60062 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 13:30:08 - App - INFO - 127.0.0.1:60064 - "GET / HTTP/1.1" 200
+2024-01-20 13:30:08 - App - INFO - 127.0.0.1:60065 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 13:32:50 - App - INFO - 127.0.0.1:60066 - "GET / HTTP/1.1" 200
+2024-01-20 14:21:08,603 - Model - INFO - Line: 55 - Preparing NLTK punkt model
+2024-01-20 14:21:08,794 - Model - INFO - Line: 63 - Loading tokenizer from: model/tokenizer.pkl...
+2024-01-20 14:21:08,865 - Model - INFO - Line: 66 - Tokenizer loaded
+2024-01-20 14:21:08,865 - Model - INFO - Line: 68 - Loading model from: model/FakeNewsModel.h5...
+2024-01-20 14:21:09,616 - Model - INFO - Line: 70 - Model loaded
+2024-01-20 14:21:09 - App - INFO - Started server process [2756]
+2024-01-20 14:21:09 - App - INFO - Waiting for application startup.
+2024-01-20 14:21:09 - App - INFO - Application startup complete.
+2024-01-20 14:21:09 - App - INFO - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2024-01-20 14:21:49 - App - INFO - 127.0.0.1:60539 - "GET / HTTP/1.1" 200
+2024-01-20 14:21:49 - App - INFO - 127.0.0.1:60540 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 14:21:49 - App - INFO - 127.0.0.1:60541 - "GET /get_model_langs HTTP/1.1" 404
+2024-01-20 14:21:49 - App - INFO - 127.0.0.1:60542 - "POST /predict_from_text HTTP/1.1" 422
+2024-01-20 14:22:40 - App - INFO - 127.0.0.1:60544 - "GET / HTTP/1.1" 200
+2024-01-20 14:22:40 - App - INFO - 127.0.0.1:60545 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 14:22:40 - App - INFO - 127.0.0.1:60546 - "GET /get_model_langs HTTP/1.1" 404
+2024-01-20 14:22:40 - App - INFO - 127.0.0.1:60547 - "POST /predict_from_text HTTP/1.1" 422
+2024-01-20 14:23:32 - App - INFO - 127.0.0.1:60550 - "GET / HTTP/1.1" 200
+2024-01-20 14:23:32 - App - INFO - 127.0.0.1:60551 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 14:23:32 - App - INFO - 127.0.0.1:60552 - "GET /get_model_langs HTTP/1.1" 404
+2024-01-20 14:23:32,079 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:23:32,081 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:23:32 - App - INFO - 127.0.0.1:60553 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:23:49 - App - INFO - 127.0.0.1:60555 - "GET / HTTP/1.1" 200
+2024-01-20 14:23:49 - App - INFO - 127.0.0.1:60556 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 14:23:49 - App - INFO - 127.0.0.1:60557 - "GET /get_model_langs HTTP/1.1" 404
+2024-01-20 14:23:49,351 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:23:49,351 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:23:49 - App - INFO - 127.0.0.1:60558 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:24:22 - App - INFO - 127.0.0.1:60652 - "GET / HTTP/1.1" 200
+2024-01-20 14:24:22 - App - INFO - 127.0.0.1:60652 - "GET /favicon.ico HTTP/1.1" 404
+2024-01-20 14:24:24 - App - INFO - 127.0.0.1:60652 - "GET /docs HTTP/1.1" 200
+2024-01-20 14:24:24 - App - INFO - 127.0.0.1:60652 - "GET /openapi.json HTTP/1.1" 200
+2024-01-20 14:24:42,449 - Model - INFO - Line: 47 - Scraping article for predict_from_url
+2024-01-20 14:24:42,696 - Model - INFO - Line: 52 - Preparing for predict_from_url
+2024-01-20 14:24:42,697 - Model - INFO - Line: 65 - Making prediction for predict_from_url
+2024-01-20 14:24:42 - App - INFO - 127.0.0.1:60653 - "POST /predict_from_url HTTP/1.1" 200
+2024-01-20 14:25:26,758 - Model - INFO - Line: 47 - Scraping article for predict_from_url
+2024-01-20 14:25:27,136 - Model - INFO - Line: 52 - Preparing for predict_from_url
+2024-01-20 14:25:27,136 - Model - INFO - Line: 65 - Making prediction for predict_from_url
+2024-01-20 14:25:27 - App - INFO - 127.0.0.1:60707 - "POST /predict_from_url HTTP/1.1" 200
+2024-01-20 14:25:59 - App - INFO - 127.0.0.1:60710 - "GET / HTTP/1.1" 200
+2024-01-20 14:25:59 - App - INFO - 127.0.0.1:60711 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 14:25:59 - App - INFO - 127.0.0.1:60712 - "GET /get_model_langs HTTP/1.1" 404
+2024-01-20 14:25:59,828 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:25:59,829 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:25:59 - App - INFO - 127.0.0.1:60713 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:26:22 - App - INFO - 127.0.0.1:60715 - "GET / HTTP/1.1" 200
+2024-01-20 14:26:22 - App - INFO - 127.0.0.1:60716 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 14:26:22 - App - INFO - 127.0.0.1:60717 - "GET /get_model_langs HTTP/1.1" 404
+2024-01-20 14:26:22,991 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:26:22,992 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:26:23 - App - INFO - 127.0.0.1:60718 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:26:37 - App - INFO - 127.0.0.1:60720 - "GET / HTTP/1.1" 200
+2024-01-20 14:26:37 - App - INFO - 127.0.0.1:60721 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 14:26:37 - App - INFO - 127.0.0.1:60722 - "GET /get_model_langs HTTP/1.1" 404
+2024-01-20 14:26:37,803 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:26:37,804 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:26:37 - App - INFO - 127.0.0.1:60723 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:26:45 - App - INFO - 127.0.0.1:60725 - "GET / HTTP/1.1" 200
+2024-01-20 14:26:45 - App - INFO - 127.0.0.1:60726 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 14:26:45 - App - INFO - 127.0.0.1:60727 - "GET /get_model_langs HTTP/1.1" 404
+2024-01-20 14:26:45,930 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:26:45,931 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:26:45 - App - INFO - 127.0.0.1:60728 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:26:54,691 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:26:54,691 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:26:54 - App - INFO - 127.0.0.1:60730 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:27:39,521 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:27:39,521 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:27:39 - App - INFO - 127.0.0.1:60732 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:27:54,369 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:27:54,369 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:27:54 - App - INFO - 127.0.0.1:60734 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:28:26,868 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:28:26,869 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:28:26 - App - INFO - 127.0.0.1:60736 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:29:34,797 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:29:34,797 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:29:34 - App - INFO - 127.0.0.1:58215 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:29:41,495 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:29:41,496 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:29:41 - App - INFO - 127.0.0.1:58221 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:29:53,039 - Model - INFO - Line: 47 - Scraping article for predict_from_url
+2024-01-20 14:29:53,308 - Model - INFO - Line: 52 - Preparing for predict_from_url
+2024-01-20 14:29:53,308 - Model - INFO - Line: 65 - Making prediction for predict_from_url
+2024-01-20 14:29:53 - App - INFO - 127.0.0.1:58223 - "POST /predict_from_url HTTP/1.1" 200
+2024-01-20 14:30:19,380 - Model - INFO - Line: 47 - Scraping article for predict_from_url
+2024-01-20 14:30:19,614 - Model - INFO - Line: 52 - Preparing for predict_from_url
+2024-01-20 14:30:19 - App - INFO - 127.0.0.1:58235 - "POST /predict_from_url HTTP/1.1" 500
+2024-01-20 14:30:19 - App - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\table\PycharmProjects\test2\venv\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 408, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "C:\Users\table\PycharmProjects\test2\venv\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\table\PycharmProjects\test2\venv\lib\site-packages\fastapi\applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\table\PycharmProjects\test2\venv\lib\site-packages\starlette\applications.py", line 116, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\table\PycharmProjects\test2\venv\lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\table\PycharmProjects\test2\venv\lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\table\PycharmProjects\test2\venv\lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\table\PycharmProjects\test2\venv\lib\site-packages\starlette\_exception_handler.py", line 55, in wrapped_app
+    raise exc
+  File "C:\Users\table\PycharmProjects\test2\venv\lib\site-packages\starlette\_exception_handler.py", line 44, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\table\PycharmProjects\test2\venv\lib\site-packages\starlette\routing.py", line 746, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\table\PycharmProjects\test2\venv\lib\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\table\PycharmProjects\test2\venv\lib\site-packages\starlette\routing.py", line 75, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\table\PycharmProjects\test2\venv\lib\site-packages\starlette\_exception_handler.py", line 55, in wrapped_app
+    raise exc
+  File "C:\Users\table\PycharmProjects\test2\venv\lib\site-packages\starlette\_exception_handler.py", line 44, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\table\PycharmProjects\test2\venv\lib\site-packages\starlette\routing.py", line 70, in app
+    response = await func(request)
+  File "C:\Users\table\PycharmProjects\test2\venv\lib\site-packages\fastapi\routing.py", line 299, in app
+    raise e
+  File "C:\Users\table\PycharmProjects\test2\venv\lib\site-packages\fastapi\routing.py", line 294, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\table\PycharmProjects\test2\venv\lib\site-packages\fastapi\routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\Users\table\PycharmProjects\test2\FakeNewsDetection\routes.py", line 59, in predict_from_url
+    if word_tokenize(cleaned_text) > config.MAX_SEQUENCE_LENGTH:
+TypeError: '>' not supported between instances of 'list' and 'int'
+2024-01-20 14:31:05,247 - Model - INFO - Line: 55 - Preparing NLTK punkt model
+2024-01-20 14:31:05,423 - Model - INFO - Line: 63 - Loading tokenizer from: model/tokenizer.pkl...
+2024-01-20 14:31:05,485 - Model - INFO - Line: 66 - Tokenizer loaded
+2024-01-20 14:31:05,485 - Model - INFO - Line: 68 - Loading model from: model/FakeNewsModel.h5...
+2024-01-20 14:31:06,078 - Model - INFO - Line: 70 - Model loaded
+2024-01-20 14:31:06 - App - INFO - Started server process [22244]
+2024-01-20 14:31:06 - App - INFO - Waiting for application startup.
+2024-01-20 14:31:06 - App - INFO - Application startup complete.
+2024-01-20 14:31:06 - App - INFO - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2024-01-20 14:31:11,495 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:31:11,496 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:31:11 - App - INFO - 127.0.0.1:58257 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:31:15,552 - Model - INFO - Line: 47 - Scraping article for predict_from_url
+2024-01-20 14:31:15,805 - Model - INFO - Line: 52 - Preparing for predict_from_url
+2024-01-20 14:31:15,807 - Model - INFO - Line: 65 - Making prediction for predict_from_url
+2024-01-20 14:31:15 - App - INFO - 127.0.0.1:58259 - "POST /predict_from_url HTTP/1.1" 200
+2024-01-20 14:31:58,250 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:31:58,251 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:31:58 - App - INFO - 127.0.0.1:58270 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:32:26,866 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:32:26,867 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:32:26 - App - INFO - 127.0.0.1:58279 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:32:34 - App - INFO - 127.0.0.1:58281 - "GET / HTTP/1.1" 200
+2024-01-20 14:32:34 - App - INFO - 127.0.0.1:58282 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 14:32:34 - App - INFO - 127.0.0.1:58283 - "GET /get_model_langs HTTP/1.1" 404
+2024-01-20 14:32:34,704 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:32:34,705 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:32:34 - App - INFO - 127.0.0.1:58284 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:33:04 - App - INFO - 127.0.0.1:58292 - "GET / HTTP/1.1" 200
+2024-01-20 14:33:04 - App - INFO - 127.0.0.1:58293 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 14:33:04 - App - INFO - 127.0.0.1:58294 - "GET /get_model_langs HTTP/1.1" 404
+2024-01-20 14:33:04,483 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:33:04,484 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:33:04 - App - INFO - 127.0.0.1:58295 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:33:16 - App - INFO - 127.0.0.1:58301 - "GET / HTTP/1.1" 200
+2024-01-20 14:33:16 - App - INFO - 127.0.0.1:58302 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 14:33:16 - App - INFO - 127.0.0.1:58303 - "GET /model_languages HTTP/1.1" 200
+2024-01-20 14:33:16,039 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:33:16,040 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:33:16 - App - INFO - 127.0.0.1:58304 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:34:03 - App - INFO - 127.0.0.1:58313 - "GET / HTTP/1.1" 200
+2024-01-20 14:34:03 - App - INFO - 127.0.0.1:58314 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 14:34:03 - App - INFO - 127.0.0.1:58315 - "GET /model_languages HTTP/1.1" 200
+2024-01-20 14:34:03,937 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:34:03,938 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:34:03 - App - INFO - 127.0.0.1:58316 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:34:03,985 - Model - INFO - Line: 47 - Scraping article for predict_from_url
+2024-01-20 14:34:04,215 - Model - INFO - Line: 52 - Preparing for predict_from_url
+2024-01-20 14:34:04,216 - Model - INFO - Line: 65 - Making prediction for predict_from_url
+2024-01-20 14:34:04 - App - INFO - 127.0.0.1:58317 - "POST /predict_from_url HTTP/1.1" 200
+2024-01-20 14:34:11 - App - INFO - 127.0.0.1:58325 - "GET / HTTP/1.1" 200
+2024-01-20 14:34:11 - App - INFO - 127.0.0.1:58326 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 14:34:11 - App - INFO - 127.0.0.1:58327 - "GET /model_languages HTTP/1.1" 200
+2024-01-20 14:34:11,498 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:34:11,498 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:34:11 - App - INFO - 127.0.0.1:58328 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:34:11,544 - Model - INFO - Line: 47 - Scraping article for predict_from_url
+2024-01-20 14:34:11,785 - Model - INFO - Line: 52 - Preparing for predict_from_url
+2024-01-20 14:34:11,787 - Model - INFO - Line: 65 - Making prediction for predict_from_url
+2024-01-20 14:34:11 - App - INFO - 127.0.0.1:58329 - "POST /predict_from_url HTTP/1.1" 200
+2024-01-20 14:34:35 - App - INFO - 127.0.0.1:58353 - "GET / HTTP/1.1" 200
+2024-01-20 14:34:35 - App - INFO - 127.0.0.1:58354 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 14:34:35 - App - INFO - 127.0.0.1:58355 - "GET /model_languages HTTP/1.1" 200
+2024-01-20 14:34:35,646 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:34:35,647 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:34:35 - App - INFO - 127.0.0.1:58356 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:34:35,693 - Model - INFO - Line: 47 - Scraping article for predict_from_url
+2024-01-20 14:34:35,933 - Model - INFO - Line: 52 - Preparing for predict_from_url
+2024-01-20 14:34:35,933 - Model - INFO - Line: 65 - Making prediction for predict_from_url
+2024-01-20 14:34:35 - App - INFO - 127.0.0.1:58357 - "POST /predict_from_url HTTP/1.1" 200
+2024-01-20 14:34:48,325 - Model - INFO - Line: 47 - Scraping article for predict_from_url
+2024-01-20 14:34:48,561 - Model - INFO - Line: 52 - Preparing for predict_from_url
+2024-01-20 14:34:48,561 - Model - INFO - Line: 65 - Making prediction for predict_from_url
+2024-01-20 14:34:48 - App - INFO - 127.0.0.1:58365 - "POST /predict_from_url HTTP/1.1" 200
+2024-01-20 14:35:02 - App - INFO - 127.0.0.1:58368 - "GET / HTTP/1.1" 200
+2024-01-20 14:35:02 - App - INFO - 127.0.0.1:58369 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 14:35:02 - App - INFO - 127.0.0.1:58370 - "GET /model_languages HTTP/1.1" 200
+2024-01-20 14:35:02,309 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:35:02,310 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:35:02 - App - INFO - 127.0.0.1:58371 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:35:02,362 - Model - INFO - Line: 47 - Scraping article for predict_from_url
+2024-01-20 14:35:02,588 - Model - INFO - Line: 52 - Preparing for predict_from_url
+2024-01-20 14:35:02,589 - Model - INFO - Line: 65 - Making prediction for predict_from_url
+2024-01-20 14:35:02 - App - INFO - 127.0.0.1:58372 - "POST /predict_from_url HTTP/1.1" 200
+2024-01-20 14:36:08 - App - INFO - 127.0.0.1:58499 - "GET / HTTP/1.1" 200
+2024-01-20 14:36:08 - App - INFO - 127.0.0.1:58500 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 14:36:08 - App - INFO - 127.0.0.1:58501 - "GET /model_languages HTTP/1.1" 200
+2024-01-20 14:36:08,828 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:36:08,828 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:36:08 - App - INFO - 127.0.0.1:58502 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:36:08,876 - Model - INFO - Line: 47 - Scraping article for predict_from_url
+2024-01-20 14:36:09,143 - Model - INFO - Line: 52 - Preparing for predict_from_url
+2024-01-20 14:36:09,144 - Model - INFO - Line: 65 - Making prediction for predict_from_url
+2024-01-20 14:36:09 - App - INFO - 127.0.0.1:58503 - "POST /predict_from_url HTTP/1.1" 200
+2024-01-20 14:37:00 - App - INFO - 127.0.0.1:51897 - "GET / HTTP/1.1" 200
+2024-01-20 14:37:00 - App - INFO - 127.0.0.1:51898 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 14:37:00 - App - INFO - 127.0.0.1:51899 - "GET /model_languages HTTP/1.1" 200
+2024-01-20 14:37:00,940 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:37:00,940 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:37:00 - App - INFO - 127.0.0.1:51900 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:37:00,986 - Model - INFO - Line: 47 - Scraping article for predict_from_url
+2024-01-20 14:37:01,251 - Model - INFO - Line: 52 - Preparing for predict_from_url
+2024-01-20 14:37:01,251 - Model - INFO - Line: 65 - Making prediction for predict_from_url
+2024-01-20 14:37:01 - App - INFO - 127.0.0.1:51901 - "POST /predict_from_url HTTP/1.1" 200
+2024-01-20 14:37:01,300 - Model - INFO - Line: 47 - Scraping article for predict_from_url
+2024-01-20 14:37:02,041 - Model - INFO - Line: 52 - Preparing for predict_from_url
+2024-01-20 14:37:02,041 - Model - INFO - Line: 65 - Making prediction for predict_from_url
+2024-01-20 14:37:02 - App - INFO - 127.0.0.1:51903 - "POST /predict_from_url HTTP/1.1" 200
+2024-01-20 14:37:35 - App - INFO - 127.0.0.1:51908 - "GET / HTTP/1.1" 200
+2024-01-20 14:37:35 - App - INFO - 127.0.0.1:51909 - "GET /model_summary HTTP/1.1" 200
+2024-01-20 14:37:35 - App - INFO - 127.0.0.1:51910 - "GET /model_languages HTTP/1.1" 200
+2024-01-20 14:37:35,723 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:37:35,723 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:37:35 - App - INFO - 127.0.0.1:51911 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:37:35,774 - Model - INFO - Line: 35 - Preparing for predict_from_text
+2024-01-20 14:37:35,774 - Model - INFO - Line: 39 - Making prediction for predict_from_text
+2024-01-20 14:37:35 - App - INFO - 127.0.0.1:51912 - "POST /predict_from_text HTTP/1.1" 200
+2024-01-20 14:37:35,823 - Model - INFO - Line: 47 - Scraping article for predict_from_url
+2024-01-20 14:37:36,062 - Model - INFO - Line: 52 - Preparing for predict_from_url
+2024-01-20 14:37:36,063 - Model - INFO - Line: 65 - Making prediction for predict_from_url
+2024-01-20 14:37:36 - App - INFO - 127.0.0.1:51913 - "POST /predict_from_url HTTP/1.1" 200
+2024-01-20 14:37:36,109 - Model - INFO - Line: 47 - Scraping article for predict_from_url
+2024-01-20 14:37:36,817 - Model - INFO - Line: 52 - Preparing for predict_from_url
+2024-01-20 14:37:36,817 - Model - INFO - Line: 65 - Making prediction for predict_from_url
+2024-01-20 14:37:36 - App - INFO - 127.0.0.1:51915 - "POST /predict_from_url HTTP/1.1" 200
